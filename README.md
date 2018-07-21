@@ -7,7 +7,6 @@
 3. Build class operators.
 
 ## Instructions
-
 This lab has provided you with a base `Song` class that provides the following definition:
 
 ```ruby
